@@ -2,7 +2,7 @@
 
 This project is a full-stack **Retrieval-Augmented Generation (RAG)** application designed to answer import–export compliance questions using *verified policy documents only*. It delivers structured, hallucination-free answers and provides source references for every response.
 
-Built by **Rohith G** and **Sharan**.
+Built by **Rohith G** and **Sharan Raj J**.
 
 ---
 
