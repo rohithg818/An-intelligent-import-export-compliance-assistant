@@ -122,7 +122,7 @@ Real‑world application: compliance automation
 👨‍💻 Contributors
 Rohith G
 
-Sharan
+Sharan Raj J
 
 🌐 Portfolio
 https://rohith-g-portfolio.netlify.app
